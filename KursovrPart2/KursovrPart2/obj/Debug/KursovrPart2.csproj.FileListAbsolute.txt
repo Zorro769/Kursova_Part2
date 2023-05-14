@@ -1,0 +1,14 @@
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.csproj.AssemblyReference.cache
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.csproj.SuggestedBindingRedirects.cache
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.Form1.resources
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.Properties.Resources.resources
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.csproj.GenerateResource.cache
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.csproj.CoreCompileInputs.cache
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\bin\Debug\KursovrPart2.exe.config
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\bin\Debug\KursovrPart2.exe
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\bin\Debug\KursovrPart2.pdb
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.exe
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.pdb
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.BigIntCalulator.resources
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.CharacterStringCalculator.resources
+D:\Forestry\CourseWork\C#\KursovrPart2\KursovrPart2\obj\Debug\KursovrPart2.TestFormcs.resources
